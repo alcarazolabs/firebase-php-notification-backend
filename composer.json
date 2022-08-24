@@ -1,0 +1,16 @@
+{
+    "name": "freddyalcarazo/notificaciones",
+    "authors": [
+        {
+            "name": "Freddy Alcarazo",
+            "email": "freddyalcarazo@hotmail.com"
+        }
+    ],
+    "require": {
+        "sngrl/php-firebase-cloud-messaging": "dev-master",
+        "php": ">=5.5"
+
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
